@@ -1,0 +1,67 @@
+body {
+    display: flex;
+    height: 80vh;
+    margin: 0;
+    background-color: rgb(212, 194, 253);
+    justify-content: center;
+    align-items: center;
+}
+
+
+#caixa {
+    width: 500px;
+    padding: 40px;
+    background-color: rgb(212, 194, 253);
+}
+
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    letter-spacing: 8px;
+}
+
+table{
+    width: 100%;
+    background-color: rgb(227, 198, 255);
+    margin-top: 15%;
+    border-collapse: collapse;
+    border: 2px solid rgb(68, 8, 92);
+    
+
+}
+    
+td{
+    border: 3px solid rgb(68, 8, 92);
+    padding: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+#Enviar{
+    background-color: rgb(125, 52, 219);
+    padding: 8px;
+    text-align: center;
+    font-size: 15px;
+    
+}
+
+#tdr{
+    padding: 10px;
+
+}
+
+th{
+    border: 3px solid rgb(50, 3, 82);
+    padding: 8px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    
+}
+
+
+button{
+    background-color: rgb(183, 107, 245);
+    font-size: 22px;
+    margin-top: 15px;
+}
